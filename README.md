@@ -90,8 +90,11 @@ Bu bölümde, basit bir zaman serisi grafiği oluşturulmaktadır. Bu grafik, ve
 
 Bu projeyi kullanmak için, aşağıdaki kütüphaneleri yüklemeniz gerekmektedir:
 
-```bash
-pip install seaborn pandas matplotlib
+
 
 ## Lisans
 Bu proje MIT Lisansı altında lisanslanmıştır.
+
+```bash
+pip install seaborn pandas matplotlib
+
